@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DarioDee
+- 👋 Hi, I’m @DarioDee (Dario)
 - 👀 I’m interested in learning about software development and am currently studying a Vision2Learn Digital Skills Bootcamp Course.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - email (dsanchezdario@gmail.com)
 
 <!---
 DarioDee/DarioDee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
